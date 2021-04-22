@@ -1,0 +1,7 @@
+My file 1
+I am learning git hub today
+1. I create new repository
+2. I have created new files in sublime
+3. I named and saved them (cntr + S)
+4. Then I commit it in Git desktop
+5. I can track all changes from history
