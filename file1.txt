@@ -5,3 +5,6 @@ I am learning git hub today
 3. I named and saved them (cntr + S)
 4. Then I commit it in Git desktop
 5. I can track all changes from history
+
+
+.gitignore to not to track changes on that file
